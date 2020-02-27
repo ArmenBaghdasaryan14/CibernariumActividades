@@ -1,0 +1,11 @@
+C:\Users\formacio\source\repos\CibernariumActividades\NombresCiudades\Fase4\bin\Debug\netcoreapp3.1\Fase4.exe
+C:\Users\formacio\source\repos\CibernariumActividades\NombresCiudades\Fase4\bin\Debug\netcoreapp3.1\Fase4.deps.json
+C:\Users\formacio\source\repos\CibernariumActividades\NombresCiudades\Fase4\bin\Debug\netcoreapp3.1\Fase4.runtimeconfig.json
+C:\Users\formacio\source\repos\CibernariumActividades\NombresCiudades\Fase4\bin\Debug\netcoreapp3.1\Fase4.runtimeconfig.dev.json
+C:\Users\formacio\source\repos\CibernariumActividades\NombresCiudades\Fase4\bin\Debug\netcoreapp3.1\Fase4.dll
+C:\Users\formacio\source\repos\CibernariumActividades\NombresCiudades\Fase4\bin\Debug\netcoreapp3.1\Fase4.pdb
+C:\Users\formacio\source\repos\CibernariumActividades\NombresCiudades\Fase4\obj\Debug\netcoreapp3.1\Fase4.csprojAssemblyReference.cache
+C:\Users\formacio\source\repos\CibernariumActividades\NombresCiudades\Fase4\obj\Debug\netcoreapp3.1\Fase4.AssemblyInfoInputs.cache
+C:\Users\formacio\source\repos\CibernariumActividades\NombresCiudades\Fase4\obj\Debug\netcoreapp3.1\Fase4.AssemblyInfo.cs
+C:\Users\formacio\source\repos\CibernariumActividades\NombresCiudades\Fase4\obj\Debug\netcoreapp3.1\Fase4.dll
+C:\Users\formacio\source\repos\CibernariumActividades\NombresCiudades\Fase4\obj\Debug\netcoreapp3.1\Fase4.pdb
