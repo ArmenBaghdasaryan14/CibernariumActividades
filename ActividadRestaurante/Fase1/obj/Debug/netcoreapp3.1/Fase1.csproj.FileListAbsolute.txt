@@ -1,0 +1,10 @@
+C:\Users\formacio\source\repos\CibernariumActividades\ActividadRestaurante\Fase1\bin\Debug\netcoreapp3.1\Fase1.exe
+C:\Users\formacio\source\repos\CibernariumActividades\ActividadRestaurante\Fase1\bin\Debug\netcoreapp3.1\Fase1.deps.json
+C:\Users\formacio\source\repos\CibernariumActividades\ActividadRestaurante\Fase1\bin\Debug\netcoreapp3.1\Fase1.runtimeconfig.json
+C:\Users\formacio\source\repos\CibernariumActividades\ActividadRestaurante\Fase1\bin\Debug\netcoreapp3.1\Fase1.runtimeconfig.dev.json
+C:\Users\formacio\source\repos\CibernariumActividades\ActividadRestaurante\Fase1\bin\Debug\netcoreapp3.1\Fase1.dll
+C:\Users\formacio\source\repos\CibernariumActividades\ActividadRestaurante\Fase1\bin\Debug\netcoreapp3.1\Fase1.pdb
+C:\Users\formacio\source\repos\CibernariumActividades\ActividadRestaurante\Fase1\obj\Debug\netcoreapp3.1\Fase1.AssemblyInfoInputs.cache
+C:\Users\formacio\source\repos\CibernariumActividades\ActividadRestaurante\Fase1\obj\Debug\netcoreapp3.1\Fase1.AssemblyInfo.cs
+C:\Users\formacio\source\repos\CibernariumActividades\ActividadRestaurante\Fase1\obj\Debug\netcoreapp3.1\Fase1.dll
+C:\Users\formacio\source\repos\CibernariumActividades\ActividadRestaurante\Fase1\obj\Debug\netcoreapp3.1\Fase1.pdb
